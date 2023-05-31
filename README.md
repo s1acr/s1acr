@@ -1,4 +1,3 @@
-# slacr
 
 Personal homepage profile
 
